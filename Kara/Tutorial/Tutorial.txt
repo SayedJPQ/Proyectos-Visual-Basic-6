@@ -1,0 +1,19 @@
+Para un mejor funcionamiento del programa configura en Control de Cuentas de Usuario en No notificarme 
+nunca,ya que cada vez que ejecutes el programa pedira permiso para abrirlo.
+
+Comandos predeterminados:
+
+Abrir programas:
+
+Abrir CMD: CMD, Abrir Bloc de Notas: Notepad, Cerrar Kara: Cerrar programa, Abrir Python:Python, 
+
+Abrir paginas web:
+
+Abrir Youtube: Youtube, Abrir Google: Google, Abrir Facebook: Face, Quiero escuchar rock
+
+Palabras a las que responde la interaccion del bot:
+
+Hola, Como estas?, Me siento feliz, Me siento triste, Que puedo traducir
+
+
+

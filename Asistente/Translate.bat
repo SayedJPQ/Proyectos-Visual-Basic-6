@@ -1,0 +1,1 @@
+start C:\Users\PC0\Desktop\Kara\Translate\Traduccion.txt

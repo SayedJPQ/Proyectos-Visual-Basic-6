@@ -1,0 +1,7 @@
+Listas de traducciones en asistente:
+
+Saludos y depedidas:
+Hola, Como estas?, Adios, Te veo despues, Te veo pronto.
+
+Objetos:
+Libro
